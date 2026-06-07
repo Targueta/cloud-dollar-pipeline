@@ -1,0 +1,927 @@
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Conexão com o PostgreSQL funcionou.
+200
+Cotação salva no PostgreSQL!
+Quantidade de registros no histórico: 1
+----- COTAÇÃO DO DÓLAR -----
+Cotação do dólar: R$ 4.98
+Maior valor do dia: R$ 4.98
+Menor valor do dia: R$ 4.98
+Variação do dia: 0.145%
+Nome da moeda: Dólar Americano/Real Brasileiro
+Data da cotação da API: 2026-04-26 21:35:21
+Data da execução do script: 2026-04-26 21:48:01
+O dólar subiu hoje.
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Conexão com o PostgreSQL funcionou.
+200
+Cotação salva no PostgreSQL!
+Quantidade de registros no histórico: 2
+----- COTAÇÃO DO DÓLAR -----
+Cotação do dólar: R$ 4.99
+Maior valor do dia: R$ 5.02
+Menor valor do dia: R$ 4.96
+Variação do dia: 0.165%
+Nome da moeda: Dólar Americano/Real Brasileiro
+Data da cotação da API: 2026-04-27 09:53:59
+Data da execução do script: 2026-04-27 10:00:01
+O dólar subiu hoje.
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Conexão com o PostgreSQL funcionou.
+200
+Cotação salva no PostgreSQL!
+Quantidade de registros no histórico: 3
+----- COTAÇÃO DO DÓLAR -----
+Cotação do dólar: R$ 4.99
+Maior valor do dia: R$ 5.02
+Menor valor do dia: R$ 4.96
+Variação do dia: 0.237%
+Nome da moeda: Dólar Americano/Real Brasileiro
+Data da cotação da API: 2026-04-27 12:54:24
+Data da execução do script: 2026-04-27 13:00:01
+O dólar subiu hoje.
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Conexão com o PostgreSQL funcionou.
+200
+Cotação salva no PostgreSQL!
+Quantidade de registros no histórico: 4
+----- COTAÇÃO DO DÓLAR -----
+Cotação do dólar: R$ 5.00
+Maior valor do dia: R$ 5.02
+Menor valor do dia: R$ 4.96
+Variação do dia: 0.362%
+Nome da moeda: Dólar Americano/Real Brasileiro
+Data da cotação da API: 2026-04-27 16:56:21
+Data da execução do script: 2026-04-27 17:00:01
+O dólar subiu hoje.
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Conexão com o PostgreSQL funcionou.
+200
+Cotação salva no PostgreSQL!
+Quantidade de registros no histórico: 5
+----- COTAÇÃO DO DÓLAR -----
+Cotação do dólar: R$ 5.00
+Maior valor do dia: R$ 5.03
+Menor valor do dia: R$ 4.98
+Variação do dia: -0.014%
+Nome da moeda: Dólar Americano/Real Brasileiro
+Data da cotação da API: 2026-04-28 09:51:46
+Data da execução do script: 2026-04-28 10:00:01
+O dólar caiu hoje.
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Conexão com o PostgreSQL funcionou.
+200
+Cotação salva no PostgreSQL!
+Quantidade de registros no histórico: 6
+----- COTAÇÃO DO DÓLAR -----
+Cotação do dólar: R$ 5.01
+Maior valor do dia: R$ 5.05
+Menor valor do dia: R$ 4.98
+Variação do dia: 0.132%
+Nome da moeda: Dólar Americano/Real Brasileiro
+Data da cotação da API: 2026-04-28 12:57:30
+Data da execução do script: 2026-04-28 13:00:00
+O dólar subiu hoje.
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Conexão com o PostgreSQL funcionou.
+200
+Cotação salva no PostgreSQL!
+Quantidade de registros no histórico: 7
+----- COTAÇÃO DO DÓLAR -----
+Cotação do dólar: R$ 5.00
+Maior valor do dia: R$ 5.05
+Menor valor do dia: R$ 4.97
+Variação do dia: -0.044%
+Nome da moeda: Dólar Americano/Real Brasileiro
+Data da cotação da API: 2026-04-28 16:56:50
+Data da execução do script: 2026-04-28 17:04:15
+O dólar caiu hoje.
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Conexão com o PostgreSQL funcionou.
+200
+Cotação salva no PostgreSQL!
+Quantidade de registros no histórico: 8
+----- COTAÇÃO DO DÓLAR -----
+Cotação do dólar: R$ 5.02
+Maior valor do dia: R$ 5.04
+Menor valor do dia: R$ 4.97
+Variação do dia: 0.420%
+Nome da moeda: Dólar Americano/Real Brasileiro
+Data da cotação da API: 2026-04-29 09:54:38
+Data da execução do script: 2026-04-29 10:00:02
+O dólar subiu hoje.
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Conexão com o PostgreSQL funcionou.
+200
+Cotação salva no PostgreSQL!
+Quantidade de registros no histórico: 9
+----- COTAÇÃO DO DÓLAR -----
+Cotação do dólar: R$ 5.02
+Maior valor do dia: R$ 5.04
+Menor valor do dia: R$ 4.97
+Variação do dia: 0.499%
+Nome da moeda: Dólar Americano/Real Brasileiro
+Data da cotação da API: 2026-04-29 12:56:55
+Data da execução do script: 2026-04-29 13:00:01
+O dólar subiu hoje.
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Conexão com o PostgreSQL funcionou.
+200
+Cotação salva no PostgreSQL!
+Quantidade de registros no histórico: 10
+----- COTAÇÃO DO DÓLAR -----
+Cotação do dólar: R$ 5.00
+Maior valor do dia: R$ 5.02
+Menor valor do dia: R$ 4.94
+Variação do dia: -0.395%
+Nome da moeda: Dólar Americano/Real Brasileiro
+Data da cotação da API: 2026-04-30 09:56:56
+Data da execução do script: 2026-04-30 10:00:02
+O dólar caiu hoje.
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Conexão com o PostgreSQL funcionou.
+200
+Cotação salva no PostgreSQL!
+Quantidade de registros no histórico: 11
+----- COTAÇÃO DO DÓLAR -----
+Cotação do dólar: R$ 5.00
+Maior valor do dia: R$ 5.02
+Menor valor do dia: R$ 4.97
+Variação do dia: -0.427%
+Nome da moeda: Dólar Americano/Real Brasileiro
+Data da cotação da API: 2026-04-30 12:58:10
+Data da execução do script: 2026-04-30 13:00:01
+O dólar caiu hoje.
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Conexão com o PostgreSQL funcionou.
+200
+Cotação salva no PostgreSQL!
+Quantidade de registros no histórico: 12
+----- COTAÇÃO DO DÓLAR -----
+Cotação do dólar: R$ 4.95
+Maior valor do dia: R$ 4.97
+Menor valor do dia: R$ 4.94
+Variação do dia: -0.323%
+Nome da moeda: Dólar Americano/Real Brasileiro
+Data da cotação da API: 2026-05-01 09:54:23
+Data da execução do script: 2026-05-01 10:00:01
+O dólar caiu hoje.
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Conexão com o PostgreSQL funcionou.
+200
+Cotação salva no PostgreSQL!
+Quantidade de registros no histórico: 13
+----- COTAÇÃO DO DÓLAR -----
+Cotação do dólar: R$ 4.96
+Maior valor do dia: R$ 4.97
+Menor valor do dia: R$ 4.94
+Variação do dia: -0.248%
+Nome da moeda: Dólar Americano/Real Brasileiro
+Data da cotação da API: 2026-05-01 12:52:11
+Data da execução do script: 2026-05-01 13:00:01
+O dólar caiu hoje.
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Conexão com o PostgreSQL funcionou.
+200
+Cotação salva no PostgreSQL!
+Quantidade de registros no histórico: 14
+----- COTAÇÃO DO DÓLAR -----
+Cotação do dólar: R$ 4.99
+Maior valor do dia: R$ 4.99
+Menor valor do dia: R$ 4.94
+Variação do dia: 0.419%
+Nome da moeda: Dólar Americano/Real Brasileiro
+Data da cotação da API: 2026-05-01 16:57:02
+Data da execução do script: 2026-05-01 17:00:00
+O dólar subiu hoje.
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Traceback (most recent call last):
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 139, in <module>
+    main()
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 15, in main
+    conexao = psycopg2.connect(
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "18.218.183.142", port 5432 failed: Operation timed out
+	Is the server running on that host and accepting TCP/IP connections?
+
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Traceback (most recent call last):
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 139, in <module>
+    main()
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 15, in main
+    conexao = psycopg2.connect(
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "18.218.183.142", port 5432 failed: Operation timed out
+	Is the server running on that host and accepting TCP/IP connections?
+
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Traceback (most recent call last):
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 139, in <module>
+    main()
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 15, in main
+    conexao = psycopg2.connect(
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "18.218.183.142", port 5432 failed: Operation timed out
+	Is the server running on that host and accepting TCP/IP connections?
+
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Conexão com o PostgreSQL funcionou.
+200
+Cotação salva no PostgreSQL!
+Quantidade de registros no histórico: 17
+----- COTAÇÃO DO DÓLAR -----
+Cotação do dólar: R$ 4.96
+Maior valor do dia: R$ 4.99
+Menor valor do dia: R$ 4.93
+Variação do dia: -0.580%
+Nome da moeda: Dólar Americano/Real Brasileiro
+Data da cotação da API: 2026-05-05 09:55:38
+Data da execução do script: 2026-05-05 10:00:00
+O dólar caiu hoje.
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Conexão com o PostgreSQL funcionou.
+200
+Cotação salva no PostgreSQL!
+Quantidade de registros no histórico: 18
+----- COTAÇÃO DO DÓLAR -----
+Cotação do dólar: R$ 4.93
+Maior valor do dia: R$ 4.99
+Menor valor do dia: R$ 4.91
+Variação do dia: -1.127%
+Nome da moeda: Dólar Americano/Real Brasileiro
+Data da cotação da API: 2026-05-05 12:53:28
+Data da execução do script: 2026-05-05 13:00:01
+O dólar caiu hoje.
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Conexão com o PostgreSQL funcionou.
+200
+Cotação salva no PostgreSQL!
+Quantidade de registros no histórico: 19
+----- COTAÇÃO DO DÓLAR -----
+Cotação do dólar: R$ 4.93
+Maior valor do dia: R$ 4.96
+Menor valor do dia: R$ 4.88
+Variação do dia: 0.100%
+Nome da moeda: Dólar Americano/Real Brasileiro
+Data da cotação da API: 2026-05-06 09:57:56
+Data da execução do script: 2026-05-06 10:03:52
+O dólar subiu hoje.
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Conexão com o PostgreSQL funcionou.
+200
+Cotação salva no PostgreSQL!
+Quantidade de registros no histórico: 20
+----- COTAÇÃO DO DÓLAR -----
+Cotação do dólar: R$ 4.94
+Maior valor do dia: R$ 4.97
+Menor valor do dia: R$ 4.89
+Variação do dia: 0.282%
+Nome da moeda: Dólar Americano/Real Brasileiro
+Data da cotação da API: 2026-05-06 12:55:29
+Data da execução do script: 2026-05-06 13:00:01
+O dólar subiu hoje.
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Conexão com o PostgreSQL funcionou.
+200
+Cotação salva no PostgreSQL!
+Quantidade de registros no histórico: 21
+----- COTAÇÃO DO DÓLAR -----
+Cotação do dólar: R$ 4.91
+Maior valor do dia: R$ 4.94
+Menor valor do dia: R$ 4.89
+Variação do dia: -0.405%
+Nome da moeda: Dólar Americano/Real Brasileiro
+Data da cotação da API: 2026-05-07 09:59:27
+Data da execução do script: 2026-05-07 10:00:02
+O dólar caiu hoje.
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Conexão com o PostgreSQL funcionou.
+200
+Cotação salva no PostgreSQL!
+Quantidade de registros no histórico: 22
+----- COTAÇÃO DO DÓLAR -----
+Cotação do dólar: R$ 4.94
+Maior valor do dia: R$ 4.96
+Menor valor do dia: R$ 4.89
+Variação do dia: 0.252%
+Nome da moeda: Dólar Americano/Real Brasileiro
+Data da cotação da API: 2026-05-07 12:52:20
+Data da execução do script: 2026-05-07 13:00:00
+O dólar subiu hoje.
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Conexão com o PostgreSQL funcionou.
+200
+Cotação salva no PostgreSQL!
+Quantidade de registros no histórico: 23
+----- COTAÇÃO DO DÓLAR -----
+Cotação do dólar: R$ 4.94
+Maior valor do dia: R$ 4.96
+Menor valor do dia: R$ 4.89
+Variação do dia: 0.191%
+Nome da moeda: Dólar Americano/Real Brasileiro
+Data da cotação da API: 2026-05-07 16:56:00
+Data da execução do script: 2026-05-07 17:00:02
+O dólar subiu hoje.
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Conexão com o PostgreSQL funcionou.
+200
+Cotação salva no PostgreSQL!
+Quantidade de registros no histórico: 24
+----- COTAÇÃO DO DÓLAR -----
+Cotação do dólar: R$ 4.92
+Maior valor do dia: R$ 4.95
+Menor valor do dia: R$ 4.89
+Variação do dia: -0.545%
+Nome da moeda: Dólar Americano/Real Brasileiro
+Data da cotação da API: 2026-05-08 09:57:59
+Data da execução do script: 2026-05-08 10:00:00
+O dólar caiu hoje.
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Conexão com o PostgreSQL funcionou.
+200
+Cotação salva no PostgreSQL!
+Quantidade de registros no histórico: 25
+----- COTAÇÃO DO DÓLAR -----
+Cotação do dólar: R$ 4.92
+Maior valor do dia: R$ 4.95
+Menor valor do dia: R$ 4.89
+Variação do dia: -0.532%
+Nome da moeda: Dólar Americano/Real Brasileiro
+Data da cotação da API: 2026-05-08 12:58:38
+Data da execução do script: 2026-05-08 13:00:01
+O dólar caiu hoje.
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Traceback (most recent call last):
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 139, in <module>
+    main()
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 15, in main
+    conexao = psycopg2.connect(
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "18.118.220.90", port 5432 failed: Operation timed out
+	Is the server running on that host and accepting TCP/IP connections?
+
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Traceback (most recent call last):
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 139, in <module>
+    main()
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 15, in main
+    conexao = psycopg2.connect(
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "18.118.220.90", port 5432 failed: Operation timed out
+	Is the server running on that host and accepting TCP/IP connections?
+
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Traceback (most recent call last):
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 139, in <module>
+    main()
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 15, in main
+    conexao = psycopg2.connect(
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "18.118.220.90", port 5432 failed: Operation timed out
+	Is the server running on that host and accepting TCP/IP connections?
+
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Traceback (most recent call last):
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 139, in <module>
+    main()
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 15, in main
+    conexao = psycopg2.connect(
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "18.118.220.90", port 5432 failed: Operation timed out
+	Is the server running on that host and accepting TCP/IP connections?
+
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Traceback (most recent call last):
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 139, in <module>
+    main()
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 15, in main
+    conexao = psycopg2.connect(
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "18.118.220.90", port 5432 failed: Operation timed out
+	Is the server running on that host and accepting TCP/IP connections?
+
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Traceback (most recent call last):
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 139, in <module>
+    main()
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 15, in main
+    conexao = psycopg2.connect(
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "18.118.220.90", port 5432 failed: Operation timed out
+	Is the server running on that host and accepting TCP/IP connections?
+
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Traceback (most recent call last):
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 139, in <module>
+    main()
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 15, in main
+    conexao = psycopg2.connect(
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "18.118.220.90", port 5432 failed: Operation timed out
+	Is the server running on that host and accepting TCP/IP connections?
+
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Traceback (most recent call last):
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 139, in <module>
+    main()
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 15, in main
+    conexao = psycopg2.connect(
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "18.118.220.90", port 5432 failed: Operation timed out
+	Is the server running on that host and accepting TCP/IP connections?
+
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Traceback (most recent call last):
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 139, in <module>
+    main()
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 15, in main
+    conexao = psycopg2.connect(
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "18.118.220.90", port 5432 failed: Operation timed out
+	Is the server running on that host and accepting TCP/IP connections?
+
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Traceback (most recent call last):
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 139, in <module>
+    main()
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 15, in main
+    conexao = psycopg2.connect(
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "18.118.220.90", port 5432 failed: Operation timed out
+	Is the server running on that host and accepting TCP/IP connections?
+
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Traceback (most recent call last):
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 139, in <module>
+    main()
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 15, in main
+    conexao = psycopg2.connect(
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "18.118.220.90", port 5432 failed: Operation timed out
+	Is the server running on that host and accepting TCP/IP connections?
+
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Traceback (most recent call last):
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 139, in <module>
+    main()
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 15, in main
+    conexao = psycopg2.connect(
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "18.118.220.90", port 5432 failed: Operation timed out
+	Is the server running on that host and accepting TCP/IP connections?
+
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Traceback (most recent call last):
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 139, in <module>
+    main()
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 15, in main
+    conexao = psycopg2.connect(
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "18.118.220.90", port 5432 failed: Operation timed out
+	Is the server running on that host and accepting TCP/IP connections?
+
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Traceback (most recent call last):
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 139, in <module>
+    main()
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 15, in main
+    conexao = psycopg2.connect(
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "18.118.220.90", port 5432 failed: Operation timed out
+	Is the server running on that host and accepting TCP/IP connections?
+
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Traceback (most recent call last):
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 139, in <module>
+    main()
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 15, in main
+    conexao = psycopg2.connect(
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "18.118.220.90", port 5432 failed: Operation timed out
+	Is the server running on that host and accepting TCP/IP connections?
+
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Traceback (most recent call last):
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 139, in <module>
+    main()
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 15, in main
+    conexao = psycopg2.connect(
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "18.118.220.90", port 5432 failed: Operation timed out
+	Is the server running on that host and accepting TCP/IP connections?
+
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Traceback (most recent call last):
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 139, in <module>
+    main()
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 15, in main
+    conexao = psycopg2.connect(
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "18.118.220.90", port 5432 failed: Operation timed out
+	Is the server running on that host and accepting TCP/IP connections?
+
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Traceback (most recent call last):
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 139, in <module>
+    main()
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 15, in main
+    conexao = psycopg2.connect(
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "18.118.220.90", port 5432 failed: Operation timed out
+	Is the server running on that host and accepting TCP/IP connections?
+
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Traceback (most recent call last):
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 139, in <module>
+    main()
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 15, in main
+    conexao = psycopg2.connect(
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "18.118.220.90", port 5432 failed: Operation timed out
+	Is the server running on that host and accepting TCP/IP connections?
+
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Traceback (most recent call last):
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 139, in <module>
+    main()
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 15, in main
+    conexao = psycopg2.connect(
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "18.118.220.90", port 5432 failed: Operation timed out
+	Is the server running on that host and accepting TCP/IP connections?
+
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Traceback (most recent call last):
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 139, in <module>
+    main()
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 15, in main
+    conexao = psycopg2.connect(
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "18.118.220.90", port 5432 failed: Operation timed out
+	Is the server running on that host and accepting TCP/IP connections?
+
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Traceback (most recent call last):
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 139, in <module>
+    main()
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 15, in main
+    conexao = psycopg2.connect(
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "18.118.220.90", port 5432 failed: Operation timed out
+	Is the server running on that host and accepting TCP/IP connections?
+
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Traceback (most recent call last):
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 139, in <module>
+    main()
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 15, in main
+    conexao = psycopg2.connect(
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "18.118.220.90", port 5432 failed: Operation timed out
+	Is the server running on that host and accepting TCP/IP connections?
+
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Traceback (most recent call last):
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 139, in <module>
+    main()
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 15, in main
+    conexao = psycopg2.connect(
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "18.118.220.90", port 5432 failed: Operation timed out
+	Is the server running on that host and accepting TCP/IP connections?
+
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Traceback (most recent call last):
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 139, in <module>
+    main()
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 15, in main
+    conexao = psycopg2.connect(
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "18.118.220.90", port 5432 failed: Operation timed out
+	Is the server running on that host and accepting TCP/IP connections?
+
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Traceback (most recent call last):
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 139, in <module>
+    main()
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 15, in main
+    conexao = psycopg2.connect(
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "18.118.220.90", port 5432 failed: Operation timed out
+	Is the server running on that host and accepting TCP/IP connections?
+
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Traceback (most recent call last):
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 139, in <module>
+    main()
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 15, in main
+    conexao = psycopg2.connect(
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "18.118.220.90", port 5432 failed: Operation timed out
+	Is the server running on that host and accepting TCP/IP connections?
+
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Traceback (most recent call last):
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 139, in <module>
+    main()
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 15, in main
+    conexao = psycopg2.connect(
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "18.118.220.90", port 5432 failed: Operation timed out
+	Is the server running on that host and accepting TCP/IP connections?
+
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Traceback (most recent call last):
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 139, in <module>
+    main()
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 15, in main
+    conexao = psycopg2.connect(
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "18.118.220.90", port 5432 failed: Operation timed out
+	Is the server running on that host and accepting TCP/IP connections?
+
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Traceback (most recent call last):
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 139, in <module>
+    main()
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 15, in main
+    conexao = psycopg2.connect(
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "18.118.220.90", port 5432 failed: Operation timed out
+	Is the server running on that host and accepting TCP/IP connections?
+
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Traceback (most recent call last):
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 139, in <module>
+    main()
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 15, in main
+    conexao = psycopg2.connect(
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "18.118.220.90", port 5432 failed: Operation timed out
+	Is the server running on that host and accepting TCP/IP connections?
+
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Traceback (most recent call last):
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 139, in <module>
+    main()
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 15, in main
+    conexao = psycopg2.connect(
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "18.118.220.90", port 5432 failed: Operation timed out
+	Is the server running on that host and accepting TCP/IP connections?
+
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Traceback (most recent call last):
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 139, in <module>
+    main()
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 15, in main
+    conexao = psycopg2.connect(
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "18.118.220.90", port 5432 failed: Operation timed out
+	Is the server running on that host and accepting TCP/IP connections?
+
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Traceback (most recent call last):
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 139, in <module>
+    main()
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 15, in main
+    conexao = psycopg2.connect(
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "18.118.220.90", port 5432 failed: Operation timed out
+	Is the server running on that host and accepting TCP/IP connections?
+
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Traceback (most recent call last):
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 139, in <module>
+    main()
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 15, in main
+    conexao = psycopg2.connect(
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "18.118.220.90", port 5432 failed: Operation timed out
+	Is the server running on that host and accepting TCP/IP connections?
+
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Traceback (most recent call last):
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 139, in <module>
+    main()
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 15, in main
+    conexao = psycopg2.connect(
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "18.118.220.90", port 5432 failed: Operation timed out
+	Is the server running on that host and accepting TCP/IP connections?
+
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Traceback (most recent call last):
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 139, in <module>
+    main()
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 15, in main
+    conexao = psycopg2.connect(
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "18.118.220.90", port 5432 failed: Operation timed out
+	Is the server running on that host and accepting TCP/IP connections?
+
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Traceback (most recent call last):
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 139, in <module>
+    main()
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 15, in main
+    conexao = psycopg2.connect(
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "18.118.220.90", port 5432 failed: Operation timed out
+	Is the server running on that host and accepting TCP/IP connections?
+
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Traceback (most recent call last):
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 139, in <module>
+    main()
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 15, in main
+    conexao = psycopg2.connect(
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "18.118.220.90", port 5432 failed: Operation timed out
+	Is the server running on that host and accepting TCP/IP connections?
+
+/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Rodando script...
+Traceback (most recent call last):
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 139, in <module>
+    main()
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/market_data_pipeline_v3.py", line 15, in main
+    conexao = psycopg2.connect(
+  File "/Users/pedrotargueta/cloud_dollar_pipeline/.venv/lib/python3.9/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "18.118.220.90", port 5432 failed: Network is unreachable
+	Is the server running on that host and accepting TCP/IP connections?
+
